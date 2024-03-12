@@ -1,4 +1,4 @@
 ﻿  day02 arr.c
-C:\Users\SYSTEM-00\source\repos\Work\day02 arrangement\day02 arrangement\day02 arr.c(18,12): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\SYSTEM-00\source\repos\Work\day02 arrangement\day02 arrangement\day02 arr.c(23): warning C4716: 'test01': 값을 반환해야 합니다.
-  day02 arrangement.vcxproj -> C:\Users\SYSTEM-00\source\repos\Work\day02 arrangement\x64\Debug\day02 arrangement.exe
+C:\Users\SYSTEM-00\source\repos\Work\Work\day02 arrangement\day02 arrangement\day02 arr.c(18,12): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\SYSTEM-00\source\repos\Work\Work\day02 arrangement\day02 arrangement\day02 arr.c(23): warning C4716: 'test01': 값을 반환해야 합니다.
+  day02 arrangement.vcxproj -> C:\Users\SYSTEM-00\source\repos\Work\Work\day02 arrangement\x64\Debug\day02 arrangement.exe
