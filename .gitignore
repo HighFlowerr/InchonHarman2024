@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/day02 arrangement/x64/Debug
